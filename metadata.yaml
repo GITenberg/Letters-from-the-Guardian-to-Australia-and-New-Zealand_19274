@@ -1,0 +1,33 @@
+_repo: Letters-from-the-Guardian-to-Australia-and-New-Zealand_19274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shoghi, Effendi
+    alias: Effendi, Shoghi
+    birthdate: 1897
+    deathdate: 1957
+    gutenberg_agent_id: '8574'
+    url: http://www.gutenberg.org/2009/agents/8574
+    wikipedia: http://en.wikipedia.org/wiki/Shoghi_Effendi
+description: ''
+gutenberg_bookshelf:
+- Australia
+- New Zealand
+gutenberg_issued: '2006-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19274'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Shoghi, Effendi, 1897-1957 -- Correspondence'
+- !lcsh 'Bahai Faith -- New Zealand'
+- !lcsh 'Bahai Faith -- Australia'
+- !lcc 'BP'
+title: Letters from the Guardian to Australia and New Zealand
+url: http://www.gutenberg.org/ebooks/19274
